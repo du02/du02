@@ -26,7 +26,6 @@
 [![laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)]()
 [![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
 
-[![Du Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=du02&layout=compact)](https://github.com/du02)
 ------------------
 
 ### Formação (Formation) 🎓 
